@@ -1,0 +1,7 @@
+print("A shinigami [verb] my [adjective] [noun] out of the [noun] as if he were a vegetarian fishing a [noun] out of his salad.")
+v = input("Enter a verb: ")
+a = input("Enter an adjective: ")
+n1 = input("Enter a noun: ")
+n2 = input("Enter a noun: ")
+n3 = input("Enter a noun: ")
+print("A shinigami",v,"my",a,n1,"out of the",n2,"as if he were a vegetarian fishing for a",n3,"out of his salad.")
